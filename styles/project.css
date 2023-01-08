@@ -62,3 +62,30 @@ color: #e00b16;
 color: #0c0c0c;
 }
 
+.div h2{
+    text-align: center;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+/* Dark 01 */
+
+     color: #151414;
+
+}
+.mango{
+    display: flex;
+    gap: 150px;
+    height: 330.26px;
+    left: 230px;
+    justify-content: center;
+    top: 90;
+}
+.contact{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
