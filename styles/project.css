@@ -1,0 +1,64 @@
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 200px;
+    
+    background-color: lavender;
+}
+.hero p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+/* or 162% */
+color: #444343;  
+}
+.hero h2 {
+    width: 525px;
+}
+.hero a {
+    background-color: darkcyan;
+    padding: 9px 20px;
+    font-family: Work Sans;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.hero img {
+    width: 500px;
+    height: 500.3px;
+}
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 200px;
+}
+.about img{
+    width: 500px;
+    height: 500.3px;
+}
+.about h3{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+color: #e00b16;
+}
+.about p{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+   line-height: 26px;
+/* or 162% */
+
+
+/* Dark 02 */
+
+color: #0c0c0c;
+}
+
